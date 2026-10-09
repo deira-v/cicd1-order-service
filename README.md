@@ -1,5 +1,5 @@
 ## OrderService
-# Port: 8082
+Port: 8082
 
 Catalog Repo: https://github.com/deira-v/cicd1-catalog-service
 
